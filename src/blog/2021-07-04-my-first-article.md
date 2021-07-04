@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
   aliquam?
 author: krishna mahato
-date: 2021-04-30T19:20:00.000Z
+date: 2021-07-04T19:30:40.919Z
 tags:
   - post
   - featured
