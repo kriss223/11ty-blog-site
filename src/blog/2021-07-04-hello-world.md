@@ -9,7 +9,7 @@ date: 2021-07-04T19:12:47.345Z
 tags:
   - post
   - featured
-image: /assects/blog/user-1.png
+image: /assects/blog/category-1.jpg
 imageAlt: beautiful girl
 ---
 <!--StartFragment-->
